@@ -40,8 +40,14 @@ function App() {
                                         </span>
                                 </div>
                         </main>
-                        
-                        <footer>
+                        <br />
+                        <br />
+                        <br />
+                        <footer className='block md:flex justify-between border-t-2 mx-24 pt-7 pb-10'>
+                                
+                                <img src="../Zuri.Internship_Logo.png" alt="zuri intenship logo" width="185px" />
+                                <p className='text-[#667085] text-[16px]'>HNG Internship 9 Frontend Task</p>
+                                <img src="../I4G.png" alt="I4G logo" />
                         
                         </footer>
                 </div>
