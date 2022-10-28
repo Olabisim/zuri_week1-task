@@ -8,10 +8,23 @@ import './index.css'
 
 function App() {
         return (
-                <div className="container">
-                        <header></header>
-                        <main></main>
-                        <footer></footer>
+                <div className="container w-full">
+                        <header className='text-center'>
+                        
+                                <div className='relative'>
+                                        <img className='border-2 p-3 rounded-full border-dashed absolute -bottom-24 right-80' src="../desktop_Icon.png" alt="navigate_back"  />
+                                </div>
+                                <img className='m-auto pt-20' id="profile__img" src="../profile__img.png" alt="profile__img" width={88} />
+                                <h2 className='font-bold text-[20px] text-[#101828] pt-4'>Annette Black</h2>
+
+                        </header>
+                        <main>
+                        
+                        </main>
+                        
+                        <footer>
+                        
+                        </footer>
                 </div>
         );
 }
