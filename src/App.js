@@ -30,7 +30,15 @@ function App() {
                         <br />
 
                         <main className='mt-5'>
+
                                 {allLinks}
+
+                                <div className='pb-5 pt-0'>
+                                        <span className='flex justify-center'>
+                                                <img src="../slack.png" alt="ad" className='p-2' />
+                                                <img src="../Social icon.png" alt="ad" className='p-2' />
+                                        </span>
+                                </div>
                         </main>
                         
                         <footer>
