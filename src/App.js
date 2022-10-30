@@ -30,7 +30,7 @@ function App() {
                                 <div className='pb-5 pt-0'>
                                         <span className='flex justify-center'>
 
-                                                <a href="#slack" alt="slack_link" target="_blank" rel="noreferrer">
+                                                <a href="https://slack.com/holabisii" alt="slack_link" target="_blank" rel="noreferrer">
                                                         <img src="../slack.png" alt="ad" className='p-2' />
                                                 </a>
 
