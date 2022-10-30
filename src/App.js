@@ -29,8 +29,15 @@ function App() {
                                 <br />
                                 <div className='pb-5 pt-0'>
                                         <span className='flex justify-center'>
-                                                <img src="../slack.png" alt="ad" className='p-2' />
-                                                <img src="../Social icon.png" alt="ad" className='p-2' />
+
+                                                <a href="#slack" alt="slack_link" target="_blank" rel="noreferrer">
+                                                        <img src="../slack.png" alt="ad" className='p-2' />
+                                                </a>
+
+                                                <a href="https://github.com/Olabisim" alt="github_link" target="_blank" rel="noreferrer">
+                                                        <img src="../Social icon.png" alt="ad" className='p-2' />
+                                                </a>
+
                                         </span>
                                 </div>
                         </main>
